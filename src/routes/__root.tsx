@@ -14,7 +14,6 @@ import {
   Linkedin,
   Mail,
   Phone,
-  MapPin,
   FileDown,
   Menu,
   X,
@@ -279,5 +278,3 @@ function RootComponent() {
     </QueryClientProvider>
   );
 }
-
-export { MapPin };

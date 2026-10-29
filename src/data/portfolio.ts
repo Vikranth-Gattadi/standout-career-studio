@@ -1,3 +1,9 @@
+import resumeAsset from "@/assets/vikranth-resume.pdf.asset.json";
+import photoAsset from "@/assets/vikranth-photo.png.asset.json";
+
+export const resumeUrl = resumeAsset.url;
+export const photoUrl = photoAsset.url;
+
 export const profile = {
   name: "Gattadi Vikranth",
   firstName: "Vikranth",
