@@ -19,6 +19,8 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/gattadi-vikranth-130228214/",
   github: "https://github.com/Vikranth-Gattadi",
   languages: ["English", "Hindi", "Telugu"],
+  resumeUrl,
+  photoUrl,
 };
 
 export const highlights = [
