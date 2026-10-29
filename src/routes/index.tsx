@@ -121,15 +121,6 @@ function Index() {
             </a>
           </div>
         </div>
-
-        <div className="relative animate-fade-in md:shrink-0">
-          <div className="absolute -inset-6 rounded-full bg-ember/15 blur-3xl" />
-          <img
-            src={photoUrl}
-            alt="Portrait of Gattadi Vikranth"
-            className="relative w-48 rounded-3xl border border-border object-cover shadow-glow sm:w-64 md:w-72"
-          />
-        </div>
       </section>
 
       {/* Highlight stats */}
